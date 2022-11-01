@@ -1,0 +1,15 @@
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\bin\Debug\net6.0\Test5.exe
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\bin\Debug\net6.0\Test5.deps.json
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\bin\Debug\net6.0\Test5.runtimeconfig.json
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\bin\Debug\net6.0\Test5.dll
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\bin\Debug\net6.0\Test5.pdb
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.csproj.AssemblyReference.cache
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.AssemblyInfoInputs.cache
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.AssemblyInfo.cs
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.dll
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\refint\Test5.dll
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.pdb
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\Test5.genruntimeconfig.cache
+C:\Users\Павел\Documents\Geek Brain\ДЗ\C#\Seminar8\Test5\obj\Debug\net6.0\ref\Test5.dll
